@@ -1,6 +1,6 @@
 # 김성준
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300
-&section=header&text=김성준(Sung-JunKim)&fontSize=90)
+&section=header&text=김성준Sung-JunKim&fontSize=90)
 ## skill
 ![my-skill](https://skillicons.dev/icons?i=python,js)
 
