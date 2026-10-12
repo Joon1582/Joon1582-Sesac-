@@ -1,5 +1,5 @@
 # 김성준
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=김성준&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=김성준&fontSize=90&animation=twinklingfontColor=d6ace6)
 
 
 ## skill
