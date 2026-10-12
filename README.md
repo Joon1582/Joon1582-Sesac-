@@ -1,6 +1,7 @@
 # 김성준
 
 ## skill
+![my-skill](https://skillicons.dev/icons?i=python,js)
 
 | skill | level |
 | --- | --- |
